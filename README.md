@@ -1,5 +1,5 @@
 <h3 align="center">
-## Hi,👋 there, I'm <a href="https://www.hassan.dotcreative.co.ke" target="_blank" rel="noreferrer">Hassan</a> 👋
+ Hi,👋 there, I'm <a href="https://www.hassan.dotcreative.co.ke" target="_blank" rel="noreferrer">Hassan</a> 👋
 </h3>
 
 <h2 align="center">
@@ -63,7 +63,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 hassankirwa/hassankirwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
