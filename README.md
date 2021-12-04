@@ -9,7 +9,7 @@ I'm a Full-Stack Web Developer 💻, WeB3 🚀🦄, and Designer 🎨!
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 ### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/hassan-kiprono/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Hassa | LinkedIn" length="40px" width="40px"/></a>
+<a href="https://www.linkedin.com/in/hassan-kiprono/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Hassan | LinkedIn" length="40px" width="40px"/></a>
 <a href="https://twitter.com/kip_hassan"><img align="left" src="https://github.com/hassankirwa/images/blob/main/icons8-twitter.svg" alt="Hassan | Twitter" length="40px" width="40px"/></a>
 <a href="https://github.com/hassankirwa"><img align="left" src="https://github.com/hassankirwa/images/blob/main/icons8-github.svg" alt="Hassan | Github" length="40px" width="40px"/></a>
 <a href="https://techblog254.hashnode.dev/"><img align="left" src="https://github.com/hassankirwa/images/blob/main/icons8-hashnode-240.png" alt="Hassan | Hashnode" length="40px" width="40px"/></a>
@@ -40,6 +40,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
+![](https://img.shields.io/badge/Tools-NodeJs-informational?style=flat&logo=Node&color=2ed573)
 
 
 
@@ -63,6 +64,12 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 - 💞️ I’m looking to collaborate on ...
+
+
+## 📈 GitHub Stats 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassankirwa)](https://github.com/hassankirwa/github-readme-stats)
+
 
 
 <!---
