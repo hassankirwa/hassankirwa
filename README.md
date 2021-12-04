@@ -68,7 +68,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 📈 GitHub Stats 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassankirwa)](https://github.com/hassankirwa/github-readme-stats)
+![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassankirwa&show_icons=true&theme=radical)
 
 
 
