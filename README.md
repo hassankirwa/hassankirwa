@@ -14,15 +14,17 @@ I love the entire process of developing creative websites. I love the challenge 
 <a href="https://github.com/hassankirwa"><img align="left" src="https://github.com/hassankirwa/images/blob/main/icons8-github.svg" alt="Hassan | Github" length="40px" width="40px"/></a>
 <a href="https://techblog254.hashnode.dev/"><img align="left" src="https://github.com/hassankirwa/images/blob/main/icons8-hashnode-240.png" alt="Hassan | Hashnode" length="40px" width="40px"/></a>
 <a href="https://discord.com/hassacodes"><img align="left" src="https://github.com/hassankirwa/images/blob/main/icons8-discord-new-240.png" alt="Hassan | Discord" length="40px" width="40px"/></a>
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" length="40px" width="40px"/></a>
-
-
 
 </br>
 </br>
 
 
-- 👀 I’m interested in ...
+## 🔭 I'm currently working on
+- Eccommerce Website(Wordpress)
+- Pharmarcy Mangement Software(React)
+- Admin Dashboard(React,Sass)
+- ERP System(Laravel)
+
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
